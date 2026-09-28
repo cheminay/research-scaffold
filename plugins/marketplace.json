@@ -1,0 +1,19 @@
+{
+  "name": "dev-workspace-bf7a3a09",
+  "plugins": [
+    {
+      "name": "research-scaffold",
+      "source": "./research-scaffold",
+      "version": "0.1.0",
+      "description": "学术研究项目脚手架：主/子/决策三角色会话纪律、四级事实纪律、GOAL.md 目标宪章、STATE.md 权威状态、kb/ 知识库与 kb_check.py 验收关卡，一键初始化适用于 Codex/ZCode 等工具的研究仓库",
+      "displayName": "Research Scaffold",
+      "displayName_i18n": {
+        "zh-CN": "学术研究脚手架"
+      },
+      "description_i18n": {
+        "zh-CN": "初始化多会话学术研究项目：三角色会话纪律、GOAL.md 宪章、STATE.md 状态、kb/ 知识库与 kb_check.py 验收关卡"
+      },
+      "category": "template"
+    }
+  ]
+}
