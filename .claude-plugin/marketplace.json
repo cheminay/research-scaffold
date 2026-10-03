@@ -4,11 +4,11 @@
     {
       "name": "research-scaffold",
       "source": "./plugins/research-scaffold",
-      "version": "0.3.1",
-      "description": "学术研究项目脚手架：主/子/决策三角色会话纪律（主/子会话均主动用子智能体工具派发可细分工作、回执只收 ≤20 行摘要、上下文长度硬控制）、四级事实纪律、GOAL.md 目标宪章、STATE.md 权威状态、kb/ 知识库与 kb_check.py 验收关卡，一键初始化适用于 Codex/ZCode 等工具的研究仓库",
+      "version": "0.4.0",
+      "description": "学术研究项目脚手架：主/子/决策三角色会话纪律（执行类请求自动分解并派发子智能体、主/子会话均派发优先、回执只收 ≤20 行摘要、上下文长度硬控制）、四级事实纪律、GOAL.md 目标宪章、STATE.md 权威状态、kb/ 知识库与 kb_check.py 验收关卡，一键初始化适用于 Codex/ZCode 等工具的研究仓库",
       "displayName": "Research Scaffold",
       "displayName_i18n": { "zh-CN": "学术研究脚手架" },
-      "description_i18n": { "zh-CN": "初始化多会话学术研究项目：三角色会话纪律、主/子会话均主动派发子智能体、上下文长度硬控制、GOAL.md 宪章、STATE.md 状态、kb/ 知识库与 kb_check.py 验收关卡" },
+      "description_i18n": { "zh-CN": "初始化多会话学术研究项目：三角色会话纪律、执行类请求自动分解并派发子智能体、上下文长度硬控制、GOAL.md 宪章、STATE.md 状态、kb/ 知识库与 kb_check.py 验收关卡" },
       "category": "template"
     }
   ]
